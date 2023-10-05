@@ -1,0 +1,32 @@
+body{ 
+    
+   background-color: lightgreen; 
+   text-align: center;
+   border-style: inset;
+   border-color: white;
+   margin: auto;
+   width: 30%;
+   padding: 15px;
+   
+}
+h1{
+
+   color: grey; 
+   text-align: center;
+   font-family: arial;
+}
+
+p{
+ 
+   font-family: arial;
+  font-size: 22px; 
+  text-align: center;
+   color: grey;
+}    
+
+a{  
+   font-family: verdana;
+  font-size: 22px; 
+  color: grey;
+}
+
